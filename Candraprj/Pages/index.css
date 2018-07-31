@@ -1,0 +1,8 @@
+p{
+    color:blue;
+    font-family:Arial;
+}
+
+header, section, footer, aside, nav, main, article, figure {
+    display: block;
+}
